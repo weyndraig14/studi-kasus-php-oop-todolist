@@ -6,7 +6,7 @@
 
 - Diagram Clean Architecture
 
-  ![clean_architec](image/clean_architec_diagram.png)
+> <img width="350" alt="Cuplikan layar 2024-03-28 103401" src="https://github.com/weyndraig14/studi-kasus-php-oop-todolist/assets/162102805/5567879b-f3ba-4a84-b3b2-89f2868df011">
 
 ---
 
